@@ -1,5 +1,3 @@
-# PartOfEmotect
-part of Emotect (mindspore) just for debug
 # part_of_Emotect
 part of Emotect (mindspore) just for debug
 
